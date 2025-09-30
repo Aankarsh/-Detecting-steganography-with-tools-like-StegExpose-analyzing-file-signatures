@@ -1,4 +1,4 @@
-# Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
+# EX 8 : Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
 ## AIM:
 To detect hidden data using steganography detection tools like StegExpose and analyze file signatures for authenticity and manipulation.
 
